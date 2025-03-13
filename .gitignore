@@ -6,3 +6,5 @@
 *.png
 
 *.hdf5
+
+train_validation_indecies.hdf5
